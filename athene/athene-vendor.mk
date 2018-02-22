@@ -1042,14 +1042,15 @@ PRODUCT_PACKAGES += \
     imscmlibrary \
     qcnvitems \
     qcrilhook \
-    AttPhoneExt \
-    CarrierServices \
-    CarrierSettingsExt \
-    ConnMO \
-    CoreSettingsExt \
-    DCMO \
-    DiagMon \
-    DMService \
     SprintDM \
-    DMConfigUpdateLight \
-    atfwd
+    atfwd \
+#    DMConfigUpdateLight \
+#    AttPhoneExt \
+#    CarrierServices \
+#    CarrierSettingsExt \
+#    ConnMO \
+#    CoreSettingsExt \
+#    DCMO \
+#    DiagMon \
+#    DMService
+
