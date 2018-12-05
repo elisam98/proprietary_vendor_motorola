@@ -17,7 +17,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter addison albus cedric montana owens perry potter sanders,$(TARGET_DEVICE)),)
+ifneq ($(filter addison albus cedric montana owens perry sanders,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libril
